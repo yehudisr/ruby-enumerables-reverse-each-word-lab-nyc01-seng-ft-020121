@@ -15,6 +15,6 @@ string_to_array.collect do |element|
   element.reverse
   binding.pry
 end  
-array_to_string.join(" ")
+element.reverse.join(" ")
 end  
 
