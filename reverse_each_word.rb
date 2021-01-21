@@ -15,6 +15,6 @@ new_array = []
 string_to_array.collect do |element| 
   new_array = element.reverse
 end  
-new
+new_array.join(" ")
 end  
 
